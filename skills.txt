@@ -1,0 +1,9 @@
+1.Teория тестирования
+2.HTML
+3.CSS
+4.Postman
+5.SQL
+6.Jmeter
+7.Swagger
+8.Ubuntu
+9.Git
